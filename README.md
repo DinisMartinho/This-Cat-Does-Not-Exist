@@ -2,7 +2,7 @@
 
 This is a very simple implementation of the WGAN-GP (Wasserstein Generative Adversarial Network with Gradient Penalty) model, based on the WGAN-GP paper. This model is able to produce realistic cat images and could be a powerful tool for generating a variety of images.
 
-Paper: [https://arxiv.org/abs/1704.00028v3]
+WGAN-GP Paper: [https://arxiv.org/abs/1704.00028v3]
 
 <h2 align="center"></h1>
 
