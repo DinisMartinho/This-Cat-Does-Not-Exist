@@ -1,4 +1,4 @@
-# This Cat Does Not Exist
+# **WGAN-GP:** This Cat Does Not Exist
 
 
 
